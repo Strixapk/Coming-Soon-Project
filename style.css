@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    font-family: 'Brush Script MT', cursive;
+
+}
+
+body {
+    background-image: url(Image002.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+h1 {
+    width: 50px;
+    height: 50px;
+    font-size: 450px;
+    /* Center vertically and horizontally */
+    position: absolute;
+    top: 0%;
+    left: 45%;
+    margin: -25px 0 0 -25px; /* apply negative top and left margins to truly center the element */
+}
+
+h2 {
+    width: 50px;
+    height: 50px;
+    font-size: 450px;
+    /* Center vertically and horizontally */
+    position: absolute;
+    top: 55%;
+    left: 14%;
+    margin: -25px 0 0 -25px; /* apply negative top and left margins to truly center the element */
+}
